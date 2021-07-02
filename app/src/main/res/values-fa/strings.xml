@@ -104,8 +104,8 @@
     <string name="unlike_without_count">ناپسند</string>
     <string name="bookmark">نشانک</string>
     <string name="unbookmark">حذف نشانک</string>
-    <string name="follow">پی‌گرفتن</string>
-    <string name="unfollow">پایان پی‌گرفتن</string>
+    <string name="follow">دنبال کردن</string>
+    <string name="unfollow">دنبال نکردن</string>
     <string name="favorite_short">برگزیده‌</string>
     <string name="unfavorite_short">حذف برگزیده</string>
     <string name="block">مسدود</string>
@@ -324,10 +324,10 @@
     <string name="corners">Corners</string>
     <string name="show_grid_gap">Show grid gap</string>
     <string name="disable_animation">Disable animation</string>
-    <string name="follower_wait_to_load">Please wait for the current task to complete first!</string>
-    <string name="follower_start_compare">Depending on user counts, this can take a while to load. Please be patient.</string>
-    <string name="post_not_found">Post not found!</string>
-    <string name="no_external_app_url">No app found which opens urls</string>
+    <string name="follower_wait_to_load">لطفاً ابتدا منتظر بمانید تا کار فعلی به پایان برسد!</string>
+    <string name="follower_start_compare">بسته به تعداد کاربران ، بارگیری این کار ممکن است مدتی طول بکشد. لطفا صبور باشید.</string>
+    <string name="post_not_found">پست یافت نشد!</string>
+    <string name="no_external_app_url">هیچ برنامه ای پیدا نشد که آدرسهای اینترنتی را باز کند</string>
     <plurals name="likes_count">
         <item quantity="one">%d پسند</item>
         <item quantity="other">%d پسند</item>
@@ -337,8 +337,8 @@
         <item quantity="other">%d دیدگاه</item>
     </plurals>
     <plurals name="stories_count">
-        <item quantity="one">%s story</item>
-        <item quantity="other">%s stories</item>
+        <item quantity="one">%s استوری</item>
+        <item quantity="other">%s استوری ها</item>
     </plurals>
-    <string name="download_permission">Storage permission not granted!</string>
+    <string name="download_permission">!اجازه ذخیره سازی داده نشده است</string>
 </resources>
